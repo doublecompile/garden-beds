@@ -4,7 +4,7 @@ A little side project by @doublecompile.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-You can download the PDF listed above.
+You can download [the PDF listed above](garden-beds.pdf).
 
 ## Overview
 ![Overview](overview.svg)
